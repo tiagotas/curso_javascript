@@ -109,6 +109,34 @@ Código-fonte da videoula:
 - 52:22 Analisando a semântica do laço `while`
 - 54:31 Testando o código do laço `while`
 - 56:21 Enviando alterações para o GitHub
+  
+### AULA 5 - APRENDENDO A PROGRAMAR COM JAVASCRIPT - COMO FAZER VETORES E MATRIZES EM JAVASCRIPT - ARRAY (1h)
+
+Código-fonte da videoula: 
+
+- 00:00 Introdução
+- 03:11 Criação dos Arquivos da Aula
+- 08:04 Vetores em JavaScript: `Arrays`
+- 11:51 Relembrando o conceito de Vetores
+- 12:56 Declaração de Vetores no Visualg
+- 15:56 Declaração de Vetores em JavaScript
+- 16:41 Preenchendo o Vetor em JavaScript manualmente
+- 17:41 Conteúdo de um Vetor com `console.log` 
+- 19:01 Vetores em JavaScript começam no Zero
+- 20:32 Conteúdo de um Vetor com `console.table`
+- 21:09 Diferenças entre `console.log` e `console.table`
+- 22:53 Inicialização do Vetor com dados no JavaScript
+- 24:13 Verificando dados e suas posições no Vetor
+- 25:40 Preenchendo um Vetor com `for`
+- 30:50 Exibindo dados de um vetor com `for`
+- 31:31 Interpolação de variáveis com JavaScript
+- 35:03 Introdução ao conceito de Matriz no JavaScript
+- 38:37 Ilustração de uma Matriz
+- 40:30 Preenchendo a Matriz manualmente
+- 44:55 Inicialização de posições na Matriz
+- 48:01 Preenchendo uma matriz com `for` aninhado
+- 53:21 Testando o código da matriz
+- 55:38 Enviando as atualizações ao GitHub
 
 ## CURTIU MEU TRABALHO?
 Você pode me ajudar com um pix para tiago@tiago.blog.br 🍻
