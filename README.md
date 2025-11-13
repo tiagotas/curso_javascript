@@ -138,5 +138,32 @@ Código-fonte da videoula:
 - 53:21 Testando o código da matriz
 - 55:38 Enviando as atualizações ao GitHub
 
+### AULA 6 - COMO PROGRAMAR EM JAVASCRIPT - COMO FAZER FUNÇÕES E PROCEDIMENTOS - VARIÁVEL LOCAL E GLOBAL (1h)
+
+Código-fonte da videoula: 
+
+- 00:00 Introdução
+- 03:46 Sincronizando Repositório Local com GitHub
+- 06:21 Criando os arquivos da aula
+- 07:55 Instalando o pacote `readline-sync`
+- 09:16 Como fazer funções em JavaScript
+- 10:40 Declaração de uma função em JavaScript
+- 11:26 Clausula `return` da função
+- 12:16 Executando o código com nodejs
+- 13:21 Diferenciando a declaração e a chamada da Função
+- 14:45 Lidando com o retorno da Função
+- 19:07 Função com parâmetro em JavaScript
+- 20:32 Argumentos de uma função
+- 22:30 Funções com múltiplos parâmetros
+- 22:51 Função com variável local
+- 25:15 Ordem da passagem de múltiplos argumentos
+- 26:41 O problema de chamar variáveis fora de escopo
+- 29:56 Guardando o retorno de funções em variáveis
+- 33:26 Passando argumentos de função digitados pelo usuário
+- 36:16 Funções que modificam variáveis globais
+- 43:39 Diferenças entre Funções e Procedimentos em JavaScript
+- 47:58 Retorno de funções como argumentos de outra função
+- 53:08 Conclusão
+
 ## CURTIU MEU TRABALHO?
 Você pode me ajudar com um pix para tiago@tiago.blog.br 🍻
